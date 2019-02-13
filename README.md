@@ -1,5 +1,7 @@
 # ConsultaDatosMedicos
 
+Este proyecto sirve para consultar datos de Resultados de Exámenes médicos desde una base de datos MongoDB en la nube, desde el servicio mLab.  
+
 -Para usar este proyecto, simplemente ubicar la carpeta ReportesResultados en el servidor.  
 -En el index.html de la carpeta se encuentra el formulario para enviar el ID del resultado que se desea consultar.  
 -La consulta de datos a mLab se hace en el archivo generarPdf.php.  
